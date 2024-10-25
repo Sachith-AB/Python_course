@@ -15,7 +15,7 @@ max=numbers[0]
 for i in numbers:
     if max<i:
         max=i
-   
+
 print(max)
 
 #2 dimensional list in python
@@ -54,7 +54,7 @@ numbers.reverse()  #sorted list to accending order
 numbers2=numbers.copy()  #copy list to another
 numbers.append(10)   #add element to numbers
 print(numbers2)     #but not add it to numbers2 list
- 
+    
 
 numbers.clear()   #clear all the item in list
 print(numbers) 

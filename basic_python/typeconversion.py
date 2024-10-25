@@ -11,7 +11,7 @@ print(age)'''
 
 #convert kilogram to pound
 
-weight_kg=input('Enter ypur weight from kilogram:')
+weight_kg=input('Enter yur weight from kilogram:')
 weight_lbs=float(weight_kg)/0.45
 
 print(weight_lbs)

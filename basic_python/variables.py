@@ -13,12 +13,23 @@ Boolean = False #boolean
 
 #create simple database for hospital
 
-full_name = 'John Smith'
+full_name = 'JohnSmith'
 age=20
 is_new=True
+a = -1
 
 #how to get input from user
 
-name=input('Enter your name:')
-colur=input("Your favorite colur?")
-print(name+' likes '+colur) #concate two string
+# name=input('Enter your name:')
+# colur=input("Your favorite colur?")
+# print(name+' likes '+colur) #concate two string
+
+# if (a):
+#     print(a)
+
+print(full_name[-2])
+
+vars 
+
+# def main():
+#     print("abs")
